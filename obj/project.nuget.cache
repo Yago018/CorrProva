@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IIDEEQFVlgc=",
+  "success": true,
+  "projectFilePath": "/home/yago/Projetos/programas/C#/API/CorrProva/CorrProva.csproj",
+  "expectedPackageFiles": [
+    "/home/yago/.nuget/packages/microsoft.aspnetcore.openapi/10.0.12/microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "/home/yago/.nuget/packages/microsoft.openapi/2.12.0/microsoft.openapi.2.12.0.nupkg.sha512",
+    "/home/yago/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.12/microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
